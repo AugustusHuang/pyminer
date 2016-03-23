@@ -1,5 +1,5 @@
 package org.augustushwang.pyminer.Type
 
-class InstanceType {
+class InstanceType extends BasicType {
 
 }

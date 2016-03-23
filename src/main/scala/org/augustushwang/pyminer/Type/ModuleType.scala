@@ -1,5 +1,5 @@
 package org.augustushwang.pyminer.Type
 
-class ModuleType {
+class ModuleType extends BasicType {
 
 }

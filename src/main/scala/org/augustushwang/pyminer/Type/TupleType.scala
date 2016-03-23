@@ -1,5 +1,5 @@
 package org.augustushwang.pyminer.Type
 
-class TupleType {
+class TupleType extends BasicType {
 
 }

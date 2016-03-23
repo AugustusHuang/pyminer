@@ -1,5 +1,5 @@
 package org.augustushwang.pyminer.Type
 
-class FunctionType {
+class FunctionType extends BasicType {
 
 }

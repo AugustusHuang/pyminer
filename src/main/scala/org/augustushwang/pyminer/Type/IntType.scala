@@ -1,5 +1,5 @@
 package org.augustushwang.pyminer.Type
 
-class IntType {
+class IntType extends BasicType {
 
 }

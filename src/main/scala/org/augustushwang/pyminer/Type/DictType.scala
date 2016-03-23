@@ -1,5 +1,5 @@
 package org.augustushwang.pyminer.Type
 
-class DictType {
+class DictType extends BasicType {
 
 }

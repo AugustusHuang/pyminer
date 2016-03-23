@@ -1,5 +1,5 @@
 package org.augustushwang.pyminer.Type
 
-class StringType {
+class StringType extends BasicType {
 
 }

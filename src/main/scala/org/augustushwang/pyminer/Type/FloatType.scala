@@ -1,5 +1,5 @@
 package org.augustushwang.pyminer.Type
 
-class FloatType {
+class FloatType extends BasicType {
 
 }

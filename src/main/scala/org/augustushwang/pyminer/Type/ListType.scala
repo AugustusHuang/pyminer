@@ -1,5 +1,5 @@
 package org.augustushwang.pyminer.Type
 
-class ListType {
+class ListType extends BasicType {
 
 }
