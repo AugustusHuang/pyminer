@@ -15,3 +15,6 @@ lazy val root = (project in file(".")).
     showTiming := false,
     showSuccess := false
   )
+
+libraryDependencies += "com.github.scopt" %% "scopt" % "3.4.0"
+resolvers += Resolver.sonatypeRepo("public")
