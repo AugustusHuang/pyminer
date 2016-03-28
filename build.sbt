@@ -5,7 +5,7 @@
 lazy val commonSettings : Seq[Setting[_]] = Seq(
   organization := "org.augustushwang",
   version := "0.0.1",
-  scalaVersion := "2.11.7"
+  scalaVersion := "2.11.8"
 )
 
 lazy val root = (project in file(".")).
